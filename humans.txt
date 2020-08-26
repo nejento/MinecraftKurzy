@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kristián Jacik
 
 # THANKS
 
-    <name>
+    Ing. Jana Vitvarová Ph.D.
+    Oldřich Rypl
 
 # TECHNOLOGY COLOPHON
 
-    CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    CSS3, HTML5, JavaScript
+    Apache Server Configs, jQuery, Modernizr, Normalize.css, Freelance (StartBootstrap)
