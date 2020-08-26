@@ -271,3 +271,7 @@ textarea {
   }
 }
 
+/* Additional code */
+a.card-text {
+  cursor: pointer;
+}
